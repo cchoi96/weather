@@ -1,0 +1,46 @@
+/* Global */
+@import url("https://fonts.googleapis.com/css?family=Lato");
+
+body {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+  background-color: #161616;
+}
+
+.container {
+  width: 35%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  border-radius: 15px;
+  color: #fff;
+  border: 1px solid white;
+}
+
+/* Header */
+
+#title {
+  margin-top: 10vh;
+}
+
+#title h1 {
+  font-size: 3em;
+}
+
+/* API Data */
+
+#api-data {
+  padding-top: 6vh;
+  padding-bottom: 6vh;
+  font-size: 1.8em;
+}
+
+#toggle {
+  text-decoration: none;
+  color: rgb(0, 150, 255);
+  font-size: 0.8em;
+}
+
+#toggle:hover {
+  color: rgb(0, 90, 255);
+}
+
